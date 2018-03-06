@@ -16,3 +16,5 @@ This app will:
         A plot synopsis (called overview in the api)
         user rating (called vote_average in the api)
         release date
+
+********* Please put you API key from themoviedb.com into: vkurman/popularmovies/utils/MovieUtils int the static String variable called THEMOVIEDB_API_KEY ***************
